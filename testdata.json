@@ -1,0 +1,13 @@
+{
+    "username":"ay420@gmail.com",
+    "password":"123456",
+    "name":"abhay",
+    "interest":["C#","Phyton","Selenium Grid","Tosco","Node.js"],
+    "gender":"Male",
+    "address":{
+        "area":"hsr",
+        "city":"Mumbai",
+        "pincode": 400052
+    }
+    
+}
